@@ -1,0 +1,2 @@
+# swingbook
+swing trading log
